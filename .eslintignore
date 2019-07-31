@@ -1,0 +1,14 @@
+
+package.json
+
+ # Compiled files
+build
+dist
+
+ #Logs
+logs
+*.log
+yarn-error.log*
+
+ #node_modules
+node_modules 
